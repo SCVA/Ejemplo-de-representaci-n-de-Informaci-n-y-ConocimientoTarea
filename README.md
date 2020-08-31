@@ -7,7 +7,17 @@
 </ol>
 <b>Instrucciones</b>
 <ol>
-  <li>sudo apt install npm</li>
-  <li>sudo npm install</li>
-  <li>sudo npm run start</li>
+  <li>Verificar Requerimientos</li>
+  <ol>
+      <li>python3 --version</li>
+      <li>pip3 --version</li>
+  </ol>
+  <li>Instalar Python y pip</li>
+  <ol>
+      <li>sudo apt-get install python3.6</li>
+      <li>sudo pip3 install</li>
+      <li>pip install --upgrade pip</li>
+  </ol>
+  <li>pip install tensorflow</li>
+  <li>python3 represInfyCon.py</li>
 </ol>
