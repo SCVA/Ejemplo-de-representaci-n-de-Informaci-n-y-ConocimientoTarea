@@ -18,6 +18,6 @@
       <li>sudo pip3 install</li>
       <li>pip install --upgrade pip</li>
   </ol>
-  <li>pip install tensorflow</li>
+  <li>pip install --upgrade tensorflow</li>
   <li>python3 represInfyCon.py</li>
 </ol>
