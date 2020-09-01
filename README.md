@@ -21,3 +21,4 @@
   <li>pip install --upgrade tensorflow</li>
   <li>python3 represInfyCon.py</li>
 </ol>
+Este ejemplo presenta un predictor de texto de un poema en español, esta dividido en dos partes, una representa la información en tokens, para su entendimiento, es decir palabras en tokens(numeros) y la segunda, representa el conocimiento en la predicción del texto en un estilo parecido al del autor original.
